@@ -3,9 +3,9 @@
 
   var Quiz = React.createClass({
     render: function() {
-      return <div>Welcome to Quiz app.</div>;
+      return <div>Welcome to Quiz app created by { this.props.creator }.</div>;
     }
   });
 
-  ReactDOM.render(<Quiz />, document.getElementById('container'));
+  ReactDOM.render(<Quiz creator={ "Jose Alanya"}/>, document.getElementById('container'));
 })();
