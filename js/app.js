@@ -2,6 +2,9 @@
   'use strict';
 
   var Quiz = React.createClass({
+    propTypes: {
+       books: React.PropTypes.array.isRequired
+    },
     render: function() {
       return <div>
                <span>Welcome to Quiz app created by { this.props.creator }.</span>
@@ -15,6 +18,9 @@
   });
 
   var Book = React.createClass({
+    propTypes: {
+      title: React.PropTypes.string.isRequired
+    },
     render: function() {
       return <div><h4>{ this.props.title }</h4></div>;
     }
