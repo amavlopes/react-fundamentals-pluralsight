@@ -11,3 +11,7 @@ e.g: https://codepen.io/jalanya/pen/xdRodx
 Components/State
 
 e.g: https://codepen.io/jalanya/pen/GmNVOY
+
+Components/Default props
+
+e.g: https://codepen.io/jalanya/pen/gWgYXp
