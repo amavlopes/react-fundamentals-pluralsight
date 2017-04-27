@@ -22,3 +22,6 @@ Components/Validating Props
 2. Warning: Each child in an array or iterator should have a unique "key" prop. Check the render method of `Quiz`. See https://fb.me/react-warning-keys for more information.
     in Book (created by Quiz)
     in Quiz
+
+Components/Mixins
+e.g: http://codepen.io/jalanya/pen/GmrJER
