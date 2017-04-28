@@ -25,3 +25,8 @@ Components/Validating Props
 
 Components/Mixins
 e.g: http://codepen.io/jalanya/pen/GmrJER
+
+JSX/Child Expressions
+
+e.g: http://jsbin.com/cobaya/3/edit?html,js,output
+http://jsbin.com/xagodep/edit?html,css,js,output
