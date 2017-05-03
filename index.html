@@ -5,14 +5,32 @@
     <title>Author Quiz</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./thirdparty/bootstrap-3.3.7/css/bootstrap.css">
+    <link rel="stylesheet" href="./css/app.css">
   </head>
   <body>
-    <div id="container"></div>
+    <div class="jumbotron">
+      <div class="container">
+        <h1>Author Quiz</h1>
+        <p>Select the book written by the author shown</p>
+        <p>Welcome to Quiz app created by Jose Alanya.</p>
+      </div>
+    </div>
+    <div class="container">
+      <div id="app"></div>
+    </div>
+    <div id="footer">
+      <div class="container">
+        <p class="text-muted credit">All images are from <a href="http://commons.wikimedia.org/wiki/Main_Page">
+          Wikimedia Commons</a> and are in the public domain.
+        </p>
+      </div>
+    </div>
     <script src="./thirdparty/jquery-3.2.1.js"></script>
     <script src="./thirdparty/react.js"></script>
     <script src="./thirdparty/react-dom.js"></script>
     <script src="./thirdparty/babel.js"></script>
+    <script src="./thirdparty/underscore.js"></script>
     <script src="./thirdparty/bootstrap-3.3.7/js/bootstrap.js"></script>
-    <script type="text/babel" src="./js/app.js"></script>
+    <script type="text/babel" data-presets="es2015,stage-2, react" src="./js/app.js"></script>
   </body>
 </html>
