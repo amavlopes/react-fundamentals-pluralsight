@@ -19,3 +19,17 @@
 #footer {
   margin-top: 60px;
 }
+
+.neutral {
+  height: 340px; 
+}
+
+.pass {
+  background-color: green;
+  height: 340px;
+}
+
+.fail {
+  background-color: red;
+  height: 340px;
+}
