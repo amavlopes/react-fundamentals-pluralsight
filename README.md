@@ -30,3 +30,13 @@ JSX/Child Expressions
 
 e.g: http://jsbin.com/cobaya/3/edit?html,js,output
 http://jsbin.com/xagodep/edit?html,css,js,output
+
+
+Forms/Author Quiz
+
+David Allen as example to add it to the Author Quiz
+imageUrl: http://everyday-mba.com/wp-content/uploads/2016/05/David-Allen-200x200.jpg
+answer1: The Art of Stress-Free Productivity
+answer2: 52 Productivity Principles for Work and Life
+answer3: The Art of Stress-Free Productivity (revised edition)
+answer4: Winning at the Game of Work and Business of Life
